@@ -18,44 +18,64 @@ Types of Alibaba Clones
 Top 10 Alibaba Clones
 
 1. <a href="https://www.made-in-china.com"> Made-in-China</a> : A prominent platform connecting Chinese manufacturers with global buyers.
-. Pros: Extensive supplier base, wide range of products.
-. Cons: Primarily focused on Chinese suppliers, quality control issues.
+
+ Pros: Extensive supplier base, wide range of products.
+
+ Cons: Primarily focused on Chinese suppliers, quality control issues.
 
 2. <a href="https://www.indiamart.com"> IndiaMART</a>  : India's largest online marketplace for business products.
-. Pros: Extensive product categories, strong domestic focus.
-. Cons: Limited international presence.
+
+ Pros: Extensive product categories, strong domestic focus.
+
+ Cons: Limited international presence.
 
 3. <a href="https://www.ec21.com"> EC21</a>   : A leading global B2B marketplace with a strong presence in Asia.
-. Pros: Global reach, comprehensive product listings.
-. Cons: Competition among suppliers can be intense.
+
+ Pros: Global reach, comprehensive product listings.
+
+ Cons: Competition among suppliers can be intense.
 
 4. <a href="https://www.DHgate.com"> EC21</a>   : Focuses on connecting Chinese small and medium enterprises with global buyers.
-. Pros: Competitive pricing, large selection.
-. Cons: Variable product quality.
+
+ Pros: Competitive pricing, large selection.
+
+ Cons: Variable product quality.
 
 5. <a href="https://www.globalsources.com"> Global Sources</a>   : A B2B platform that connects buyers with verified suppliers from Asia.
-. Pros: Verified suppliers, extensive sourcing reports.
-. Cons: Higher prices compared to other platforms.
+
+ Pros: Verified suppliers, extensive sourcing reports.
+
+ Cons: Higher prices compared to other platforms.
 
 6. <a href="https://www.tradeindia.com"> TradeIndia</a>   : An Indian B2B marketplace connecting buyers and suppliers.
-. Pros: Focus on Indian market, diverse product range.
-. Cons: Limited global reach.
+
+ Pros: Focus on Indian market, diverse product range.
+
+ Cons: Limited global reach.
 
 7. <a href="https://www.thomasnet.com"> ThomasNet</a>   : A North American B2B marketplace for industrial products and services.
-. Pros: Strong focus on industrial products, reputable suppliers.
-. Cons: Limited to North American suppliers.
+
+ Pros: Strong focus on industrial products, reputable suppliers.
+
+ Cons: Limited to North American suppliers.
 
 8. <a href="https://www.kompass.com"> Kompass</a>   : A global B2B directory with a strong focus on European markets.
-. Pros: Extensive database, strong European presence.
-. Cons: Limited product categories.
+
+ Pros: Extensive database, strong European presence.
+
+ Cons: Limited product categories.
 
 9. <a href="https://www.thomasnet.com"> ThomasNet</a>   : A European B2B platform connecting buyers with suppliers.
-. Pros: Strong focus on European markets, multilingual support.
-. Cons: Limited supplier base compared to global platforms.
+
+ Pros: Strong focus on European markets, multilingual support.
+
+ Cons: Limited supplier base compared to global platforms.
 
 10. <a href="https://www.exporthub.com"> ExportHub</a> : A B2B marketplace connecting exporters with buyers worldwide.
-. Pros: Global reach, diverse product categories.
-. Cons: High competition among suppliers.
+
+ Pros: Global reach, diverse product categories.
+
+ Cons: High competition among suppliers.
 
 How to Build an Alibaba Clone: Step-by-Step Guide
 
